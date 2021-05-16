@@ -761,7 +761,7 @@ a {
 }
 
 @media screen and (min-width: 768px) {
-	.feature:nth-last-of-type(even) .feature__content {
+	.feature:nth-last-of-type(odd) .feature__content {
 		order: 2;
 	}
 }
